@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **HTML,CSS,JS,C++**
+- 💬 Ask me about **HTML,CSS,JS,C++,SQL**
 
 - 📫 How to reach me **pardhumannem3638@gmail.com**
 
